@@ -26,10 +26,6 @@
 
 ---
 
-## 👤 Author
-**Adebayo Wariz**
----
-
 ## ⚙️ How It Works
 
 ---
