@@ -26,13 +26,13 @@
 
 ---
 
-## 👤 Author
-**Adebayo Wariz**
----
----
-
 ## ⚙️ How It Works
 
 ---
 
 ## 🤝 Contributing
+
+---
+
+## 👤 Author
+**Adebayo Wariz**  
