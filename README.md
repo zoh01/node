@@ -27,8 +27,7 @@ In today's digital age, content creation has become more important than ever. Ho
 
 ---
 
-## 📱 App Preview
-
+### Development Philosophy
 ---
 
 ## 🔧 Tools and Libraries Used
