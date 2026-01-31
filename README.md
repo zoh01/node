@@ -30,6 +30,7 @@ In today's digital age, content creation has become more important than ever. Ho
 - **Wind** - Speed and direction
 - **Humidity** - Moisture levels
 - **Pressure** - Atmospheric pressure
+- **Visibility** - Distance you can see
 
 ---
 
