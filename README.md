@@ -23,6 +23,7 @@ In today's digital age, content creation has become more important than ever. Ho
 - **5-Day Forecast** - Extended weather predictions
 - **Hourly Updates** - Hour-by-hour weather breakdown
 - **Multiple Locations** - Track weather in multiple cities
+- **Search** - Find weather for any city worldwide
 
 ---
 
