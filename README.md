@@ -22,6 +22,7 @@ In today's digital age, content creation has become more important than ever. Ho
 - **Current Weather** - Real-time temperature, humidity, and conditions
 - **5-Day Forecast** - Extended weather predictions
 - **Hourly Updates** - Hour-by-hour weather breakdown
+- **Multiple Locations** - Track weather in multiple cities
 
 ---
 
