@@ -20,6 +20,7 @@ In today's digital age, content creation has become more important than ever. Ho
 ### 📝 Content Creation & Management
 ### 🌤️ Weather Information
 - **Current Weather** - Real-time temperature, humidity, and conditions
+- **5-Day Forecast** - Extended weather predictions
 
 ---
 
