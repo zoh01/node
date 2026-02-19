@@ -28,7 +28,6 @@ In today's digital age, content creation has become more important than ever. Ho
 ### 📊 Detailed Metrics
 - **Temperature** - Current, feels-like, min/max
 - **Wind** - Speed and direction
-- **Humidity** - Moisture levels
 
 ---
 
