@@ -25,8 +25,6 @@ In today's digital age, content creation has become more important than ever. Ho
 - **Multiple Locations** - Track weather in multiple cities
 - **Search** - Find weather for any city worldwide
 
-### 📊 Detailed Metrics
-
 ---
 
 ## 🛠️ My Approach
