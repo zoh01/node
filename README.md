@@ -60,7 +60,6 @@ In today's digital age, content creation has become more important than ever. Ho
 
 ### Setup
 
-### Get Your API Key
 ---
 
 ## 🤝 Contributing
