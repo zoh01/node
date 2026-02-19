@@ -26,7 +26,6 @@ In today's digital age, content creation has become more important than ever. Ho
 - **Search** - Find weather for any city worldwide
 
 ### 📊 Detailed Metrics
-- **Temperature** - Current, feels-like, min/max
 
 ---
 
