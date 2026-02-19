@@ -58,7 +58,6 @@ In today's digital age, content creation has become more important than ever. Ho
 - Flutter SDK (3.0+)
 - OpenWeatherMap API Key [Get Free API Key](https://openweathermap.org/api)
 
-### Setup
 
 ---
 
