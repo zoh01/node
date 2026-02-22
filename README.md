@@ -16,10 +16,6 @@
 
 ## ⚙️ How It Works
 
----
-
-## 🚀 Installation
-
 
 ---
 
