@@ -19,7 +19,6 @@ In today's digital age, content creation has become more important than ever. Ho
 ## ✨ Features
 ### 📝 Content Creation & Management
 ### 🌤️ Weather Information
-- **Current Weather** - Real-time temperature, humidity, and conditions
 
 ---
 
