@@ -14,11 +14,6 @@
 
 ---
 
-## ⚙️ How It Works
-
-
----
-
 ## 🤝 Contributing
 
 ---
