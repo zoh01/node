@@ -20,9 +20,6 @@
 
 ---
 
-### Development Philosophy
----
-
 ## 🔧 Tools and Libraries Used
 
 ---
