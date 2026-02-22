@@ -14,10 +14,6 @@
 
 ---
 
-## 🛠️ My Approach
-
----
-
 ## ⚙️ How It Works
 
 ---
