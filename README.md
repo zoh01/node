@@ -17,7 +17,6 @@ In today's digital age, content creation has become more important than ever. Ho
 ---
 
 ## ✨ Features
-### 📝 Content Creation & Management
 
 ---
 
