@@ -8,8 +8,6 @@
 
 ## 🎯 Overview
 
-**For Readers**
-
 ---
 
 ## ✨ Features
