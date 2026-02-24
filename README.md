@@ -6,9 +6,6 @@
 
 ---
 
-## 🎯 Overview
-
----
 
 ## 👤 Author
 **Adebayo Wariz**  
