@@ -14,8 +14,6 @@
 
 ---
 
-## 🤝 Contributing
-
 ---
 
 ## 👤 Author
