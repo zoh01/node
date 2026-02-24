@@ -10,10 +10,6 @@
 
 ---
 
-## ✨ Features
-
----
-
 ## 👤 Author
 **Adebayo Wariz**  
 
