@@ -4,8 +4,6 @@
 
 ## 📖 Introduction
 
----
-
 
 ## 👤 Author
 **Adebayo Wariz**  
