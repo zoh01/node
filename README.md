@@ -1,5 +1,3 @@
-# Node
-
 ## 👤 Author
 **Adebayo Wariz**  
 
