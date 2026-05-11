@@ -11,6 +11,4 @@ LinkedIn: https://www.linkedin.com/in/adebayo-wariz-a8ab9a310/
 ---
 
 ## 📄 License
-Distributed under the MIT License. See LICENSE file for more information.
-
 
