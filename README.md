@@ -14,7 +14,6 @@ LinkedIn: https://www.linkedin.com/in/adebayo-wariz-a8ab9a310/
 Distributed under the MIT License. See LICENSE file for more information.
 
       MIT License
-      
-      Copyright (c) 2025 [Adebayo Wariz]
+
 
 
