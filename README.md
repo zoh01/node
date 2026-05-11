@@ -1,2 +1,1 @@
-## 👤 Author
-**Adebayo Wariz**  
+
